@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+tests
+results
+models
+projects/Nome_Chatbot_1/config.yml
+projects/Nome_Chatbot_2/config.yml
+
 # C extensions
 *.so
 
