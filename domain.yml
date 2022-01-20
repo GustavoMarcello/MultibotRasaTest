@@ -9,6 +9,7 @@ intents:
 - deny
 - bot_challenge
 
+# respostas do bot
 responses:
   utter_greet:
   - text: Olá tudo bem, Qual chatbot você deseja testar?
