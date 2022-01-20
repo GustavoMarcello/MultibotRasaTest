@@ -3,10 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# tests
-# results
-# projects/Nome_Chatbot_1/config.yml
-# projects/Nome_Chatbot_2/config.yml
+tests
+results
+projects/Nome_Chatbot_1/config.yml
+projects/Nome_Chatbot_2/config.yml
 models
 
 # C extensions
