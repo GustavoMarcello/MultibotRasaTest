@@ -1,0 +1,25 @@
+#### This file contains tests to evaluate that your bot behaves as expected.
+#### If you want to learn more, please see the docs: https://rasa.com/docs/rasa/testing-your-assistant
+
+stories:
+
+- story: tchau
+  steps:
+  - user: |
+      tchau
+    intent: goodbye
+  - action: utter_goodbye
+
+- story: oi
+  steps:
+  - user: |
+      - oi
+    intent: greet
+  - action: utter_greet
+
+# - story: iniciar bot 2
+#   steps:
+#   - user: |
+#       começar bot 2
+#     intent: iniciar_bot2
+#   - action: utter_iniciar_bot2
