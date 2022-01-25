@@ -4,7 +4,7 @@ session_config:
   carry_over_slots_to_new_session: true
 intents:
 - iniciar_bot1
-- testar_bot2
+- testar_bot1
 
 responses:
   utter_iniciar_bot1:
